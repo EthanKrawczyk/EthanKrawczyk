@@ -3,6 +3,7 @@
 Salutations, I'm @EthanKrawczyk.
 - I am a student and alumni at <a href="https://www.mstc.edu/">Mid-State Technical College</a>.
 - I graduated and currently attend various I.T. security and administration programs.
+- I've been programming longer than I remember, I started with lua when I was ten-ish?
 
 I have a variety of hobbies, not all computer related.
 - Most of my Github projects are under an online handle.
